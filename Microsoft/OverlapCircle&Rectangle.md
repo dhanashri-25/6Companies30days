@@ -1,6 +1,5 @@
 # Circle and Rectangle Overlapping
-[![Problem Link](https://upload.wikimedia.org/wikipedia/commons/6/69/LeetCode_logo.png)](https://leetcode.com/problems/circle-and-rectangle-overlapping/)
-
+[Problem Link](https://leetcode.com/problems/circle-and-rectangle-overlapping/)
 
 You are given a circle represented as (radius, xCenter, yCenter) and an axis-aligned rectangle represented as (x1, y1, x2, y2), where (x1, y1) are the coordinates of the bottom-left corner, and (x2, y2) are the coordinates of the top-right corner of the rectangle.
 
@@ -26,4 +25,4 @@ class Solution {
 ```
 
 ### Accepted
-[![image](https://user-images.githubusercontent.com/44930179/148939947-7f0c69cb-e9e0-4318-952d-2e23c48f0100.png)](https://leetcode.com/problems/circle-and-rectangle-overlapping/submissions/1496250913)
+![image](https://github.com/user-attachments/assets/9b2b268d-860b-44a6-a581-4acfb4bc83ec)
