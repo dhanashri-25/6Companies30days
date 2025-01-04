@@ -58,3 +58,5 @@ class Solution {
 ```
 
 ### Accepted
+![image](https://github.com/user-attachments/assets/ee2bdbec-f045-401d-b068-0a5b98f9d009)
+
