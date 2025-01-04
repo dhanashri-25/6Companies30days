@@ -10,7 +10,7 @@ There are `n` friends that are playing a game. The friends are sitting in a circ
 - Else, the last friend in the circle wins the game.
 
 ### Input:
-- `n = 5, k = 2`
+```n = 5, k = 2```
 
 ### Output:
 ```3```
@@ -47,5 +47,6 @@ class Solution {
 ```
 
 ### Accepted
+![image](https://github.com/user-attachments/assets/d59c8a18-ca20-4f2e-8d01-2990066c0875)
 
 
