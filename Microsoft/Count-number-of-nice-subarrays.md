@@ -33,16 +33,6 @@ nums = [2, 4, 6], k = 1
 **Explanation:**
 There are no odd numbers in the array, so the answer is 0.
 
-**Example 3:**
-
-**Input:**
-```java
-nums = [2, 2, 2, 1, 2, 2, 1, 2, 2, 2], k = 2
-```
-
-**Output:**
-```java
-16
 ```
 
 ---
@@ -97,17 +87,7 @@ class Solution {
 - The time complexity of the solution is **O(n)**, where `n` is the length of the input array `nums`. The sliding window technique ensures that each element is processed at most twice (once when expanding the window and once when contracting it).
 
 ---
+### Accepted Solution
 
-### Explanation in Simple Terms:
-
-1. **Convert the Problem:** Think of every odd number as 1 and every even number as 0. Now, we need to count how many subarrays have **at most** `k` ones (odd numbers).
-
-2. **Sliding Window Approach:** 
-   - We maintain a window of elements that contains at most `k` odd numbers. If the window exceeds `k` odd numbers, we shrink it from the left side.
-   - The count of valid subarrays ending at each position `r` is calculated as `(r - l + 1)`.
-
-3. **Calculate Subarrays with Exactly `k` Odd Numbers:**
-   - Subarrays with exactly `k` odd numbers can be found by subtracting the count of subarrays with **at most** `k-1` odd numbers from the count of subarrays with **at most** `k` odd numbers.
-
-This technique efficiently counts the subarrays while maintaining a time complexity of O(n), which is optimal for large input sizes.
+![Screenshot 2025-01-04 153058](https://github.com/user-attachments/assets/bf008362-e3a1-4927-9038-0f12d4d457d4)
 
