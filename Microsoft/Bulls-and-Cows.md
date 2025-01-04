@@ -1,4 +1,4 @@
-### Bulls and Cows
+# Bulls and Cows
 [Problem Link](https://leetcode.com/problems/bulls-and-cows/description/)
 
 You are playing a game with your friend where you write down a secret number, and your friend guesses the number. Based on the guess, you return a hint:
