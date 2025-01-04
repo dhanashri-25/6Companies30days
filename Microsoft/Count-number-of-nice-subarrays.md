@@ -1,4 +1,4 @@
-### Problem: Count Number of Nice Subarrays
+# Count Number of Nice Subarrays
 [Problem Link](https://leetcode.com/problems/count-number-of-nice-subarrays/description/)
 
 Given an array of integers `nums` and an integer `k`, a continuous subarray is called **nice** if there are exactly `k` odd numbers in it. The task is to return the number of **nice** subarrays.
