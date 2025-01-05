@@ -1,4 +1,4 @@
-### Problem: Minimum Moves to Equal Array Elements II
+# Minimum Moves to Equal Array Elements II
 [Problem Link](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/description/)
 
 Given an integer array `nums` of size `n`, return the minimum number of moves required to make all array elements equal. In one move, you can increment or decrement an element of the array by 1.
@@ -78,3 +78,6 @@ Thus, the overall time complexity is `O(n log n)`.
 Imagine you have a group of friends standing in a straight line. You want them all to meet at one point with the least amount of walking. If everyone gathers at the **median** of their positions, the total walking distance for the group will always be the smallest possible. 
 
 This is why finding the median and summing the absolute distances from each friend to the median gives us the minimum number of moves.
+
+### Accepted Solution
+![Screenshot 2025-01-04 153042](https://github.com/user-attachments/assets/d7d4bba9-68b6-483b-a1d1-79cac2826b16)

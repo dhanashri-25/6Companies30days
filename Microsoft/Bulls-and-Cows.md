@@ -1,4 +1,4 @@
-### Problem: Bulls and Cows
+# Bulls and Cows
 [Problem Link](https://leetcode.com/problems/bulls-and-cows/description/)
 
 You are playing a game with your friend where you write down a secret number, and your friend guesses the number. Based on the guess, you return a hint:
@@ -103,3 +103,6 @@ class Solution {
 1. **Bulls** are the digits that are exactly the same at the same position in both the `secret` and `guess` strings. We count these first.
 2. **Cows** are the digits that exist in the secret number but are at the wrong position in the guess. We track the unmatched digits from both strings using the `numbers` array and adjust the count of cows accordingly.
 3. The result is returned in the format `"xAyB"`, where `x` is the count of bulls and `y` is the count of cows.
+
+### Accepted Solution
+![Screenshot 2025-01-04 153115](https://github.com/user-attachments/assets/1bb2b927-6f50-4dec-ab75-e7d9bf2a7331)
