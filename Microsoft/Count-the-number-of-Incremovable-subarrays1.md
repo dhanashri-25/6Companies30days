@@ -1,4 +1,4 @@
-### 2970. Count the Number of Incremovable Subarrays I
+# 2970. Count the Number of Incremovable Subarrays I
 [Problem link](https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-i/)
 
 You are given a 0-indexed array of positive integers `nums`.
