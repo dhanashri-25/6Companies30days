@@ -61,5 +61,3 @@ class Solution {
     }
 }
 ```
-Accepted
-![Accepted solution](image.png)
