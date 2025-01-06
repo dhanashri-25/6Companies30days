@@ -61,3 +61,4 @@ class Solution {
 ```
 
 ### Accepted
+![image](https://github.com/user-attachments/assets/fa5fa633-984f-4ccb-b6e5-b6ca390433be)
