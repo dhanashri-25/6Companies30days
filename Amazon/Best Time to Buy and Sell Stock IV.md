@@ -51,3 +51,4 @@ class Solution {
 - **O(n * k)**: We use a 3D dynamic programming array to store intermediate results for the given number of days, buy/sell states, and transaction counts.
 
 ### Accepted Solution:
+![image](https://github.com/user-attachments/assets/d686d55d-b7b5-44a2-9e08-2c316b25a3ff)
