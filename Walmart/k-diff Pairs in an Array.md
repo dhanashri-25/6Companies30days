@@ -105,3 +105,6 @@ class Solution {
         return count;
     }
 }
+### Accepted Solution:
+![image](https://github.com/user-attachments/assets/f04eecd9-dca3-4179-bb4c-2bab9c069cbf)
+
