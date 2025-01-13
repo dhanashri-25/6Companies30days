@@ -128,3 +128,5 @@ class Solution {
 - **Space Complexity:** \(O(n)\) for the `elements` array.
 
 ---
+### Accepted solution:
+![image](https://github.com/user-attachments/assets/4012bfae-acab-4d71-ba52-2d4e4208c477)
