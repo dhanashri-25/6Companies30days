@@ -86,4 +86,6 @@ class Solution {
 
 ### Space Complexity:
 - The space complexity is `O(121)`, as we use an array of size 121 to store the frequency of each age.
-
+  
+### Accepted Solution:
+![image](https://github.com/user-attachments/assets/805b8452-1033-4634-b6b4-e14933b7a61a)
