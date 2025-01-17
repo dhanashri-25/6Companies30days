@@ -68,3 +68,6 @@ class Solution {
 
 ### Space Complexity:
 - The space complexity is `O(1)` since no extra space is used apart from the input arrays and a few variables.
+  
+### Accepted Solution:
+![image](https://github.com/user-attachments/assets/20e4e334-5738-4a05-9fc1-8c3dd13481b7)
