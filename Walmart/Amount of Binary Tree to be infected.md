@@ -97,3 +97,5 @@ class Solution {
 ### Space Complexity:
 - The space complexity is `O(n)` for storing the graph representation and the queue during BFS. `n` is the number of nodes in the tree.
 
+### Accepted Solution
+![image](https://github.com/user-attachments/assets/ff7510b2-c4e7-4b60-82e8-61579305082f)
