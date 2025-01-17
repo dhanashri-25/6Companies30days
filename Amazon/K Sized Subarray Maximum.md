@@ -75,5 +75,7 @@ class Solution {
 
 ## Space Complexity:
 - The space complexity is `O(k)` because we store at most `k` elements in the priority queue at any given time.
-```
+
 ## Accepted Solution
+![image](https://github.com/user-attachments/assets/53d6050c-bcbf-4a2b-9df8-81ca97784cd6)
+
