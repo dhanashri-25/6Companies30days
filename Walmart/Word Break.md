@@ -67,3 +67,5 @@ class Solution {
 - **Solution 1:** `O(n)`, for the `dp` array.
 - **Solution 2:** `O(n + k)`, where `n` is the `dp` array and `k` is the size of the `HashSet`.
 
+### Accepted Solution:
+![Screenshot 2025-01-19 224633](https://github.com/user-attachments/assets/ebd1e442-d1dc-400d-9964-537d8374bd1d)
