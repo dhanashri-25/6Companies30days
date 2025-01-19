@@ -103,3 +103,5 @@ class Solution {
 - `O(k)` for the `HashMap` and `List`, where `k` is the number of unique characters in the string.
 
 ---
+### Accepted Solution:
+![Screenshot 2025-01-19 224702](https://github.com/user-attachments/assets/0c9c0a37-1774-4d9a-9543-ef87302de38e)
