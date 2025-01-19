@@ -19,15 +19,7 @@ Linked List: 9->1->3->5->9->4->10->1, n = 1, m = 2
 - Skip 2 nodes (`9->1`) and delete 1 node (`3`).
 - Continue skipping 2 nodes (`5->9`) and delete 1 node (`4`).
 - The result is `9->1->5->9->10->1`.
-
-## Expected Time Complexity
-- `O(n)` where `n` is the number of nodes in the linked list.
-
-## Expected Space Complexity
-- `O(1)` since no additional space is used apart from a few pointers.
-
 ---
-
 ## Solution:
 
 ```java
@@ -71,3 +63,5 @@ class Solution {
 - **Space used:** `O(1)` since no additional data structures are used.
 
 ---
+### Accepted Solution
+![Screenshot 2025-01-19 224647](https://github.com/user-attachments/assets/9a1b3d36-7e1a-4fb4-805e-2007fe0cc70d)
