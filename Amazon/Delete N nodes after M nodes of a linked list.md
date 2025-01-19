@@ -51,9 +51,6 @@ class Solution {
     }
 }
 ```
-
----
-
 ### Time Complexity:
 - **Skipping `m` nodes:** Takes `O(n)` in total across all iterations.
 - **Deleting `n` nodes:** Takes `O(n)` in total across all iterations.
